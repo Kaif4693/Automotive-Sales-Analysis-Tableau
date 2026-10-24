@@ -210,7 +210,7 @@ This project reflects my learning journey to transform raw data into meaningful 
 
 ## 🔗 Connect With Me
 
-* **LinkedIn:** [Add your LinkedIn profile URL here]
+* **LinkedIn:** [(https://www.linkedin.com/in/kaifsayyed7)]
 * **GitHub:** [Explore my other projects](https://github.com/)
 
 ---
